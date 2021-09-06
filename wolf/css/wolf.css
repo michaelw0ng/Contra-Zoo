@@ -1,0 +1,35 @@
+ul {
+   list-style-type: none;
+   height: 60px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   position: relative;
+}
+
+li {
+   float: center;
+   color: white;
+   background-color: #663300;
+   text-transform: uppercase;
+}
+
+a {
+   display: block;
+   padding: 2px;
+   font-family: "Gill Sans";
+}
+
+body {
+   background-image: url('../../img/cage.jpeg');
+   background-size: 1280px 1024px;
+   margin: 0%;
+}
+
+.menu:hover {
+   backsground-color: peru;
+}
+
+#home {
+   background-color: forestgreen;
+}

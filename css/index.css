@@ -31,7 +31,7 @@ body {
    margin: auto;
 }
 
-#brownborder2 {
+.brownborder2 {
    border: 3px solid #663300;
    background-image: url('../img/wood.jpeg');
    background-size: 100%;
@@ -42,31 +42,40 @@ body {
 
 #bunny {
    font-family: "Optima";
-   font-size: 130%;
+   font-size: 125%;
+   font-weight: lighter;
 }
 
 #wolf {
    font-family: "Copperplate";
    font-size: 150%;
+   font-weight: lighter;
+}
+
+#quokka {
+   font-family: "Blippo";
+   font-size: 140%;
+   font-weight: lighter;
 }
 
 #leopard {
    font-family: "papyrus";
    font-size: 130%;
+   font-weight: lighter;
 }
 
 img {
    height: 90%;
-   width: 90%;
+   width: 100%;
 }
 
 ul {
    list-style-type: none;
-   height: 40px;
+   height: 60px;
    text-align: center;
-   position: abosulte;
-   margin: auto;
-   width: 100%;
+   margin: 0;
+   padding: 0;
+   position: relative;
 }
 
 li {
@@ -84,4 +93,8 @@ a {
 
 #home {
    background-color: forestgreen;
+}
+
+.menu:hover {
+   background-color: peru;
 }
