@@ -34,3 +34,33 @@ body {
 #home {
    background-color: forestgreen;
 }
+
+img {
+   height: 90%;
+   width: 100%;
+}
+
+.brownborder2 {
+   border: 3px solid #663300;
+   background-image: url('../../img/wood.jpeg');
+   background-size: 100%;
+   text-align: center;
+   width: 97%;
+   margin: auto;
+}
+
+h1 {
+   color: white;
+}
+
+#text {
+   font-size: medium;
+   text-align: left;
+   font-weight: lighter;
+}
+
+#leopard {
+   font-family: "papyrus";
+   font-size: 130%;
+   font-weight: lighter;
+}
