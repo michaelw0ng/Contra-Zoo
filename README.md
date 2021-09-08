@@ -1,4 +1,4 @@
-# Zoo
+# Contra Zoo
 
 Group members: Michael Wong
 
