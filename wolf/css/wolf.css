@@ -9,12 +9,12 @@ ul {
 
 li {
    float: center;
-   color: white;
    background-color: #663300;
    text-transform: uppercase;
 }
 
 a {
+   color: white;
    display: block;
    padding: 2px;
    font-family: "Gill Sans";
