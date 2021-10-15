@@ -1,6 +1,6 @@
 # Contra Zoo
 
-Group members: Michael Wong
+Built by: Michael Wong
 
 Github username: michaelw0ng
 
